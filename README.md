@@ -1,3 +1,10 @@
+##This is the theme template from tutorial !
+link:(http://goo.gl/kWq9ea) !!
+
+###Look at the official template:
+link : https://github.com/CyanogenMod/android_packages_themes_Template
+
+
 ### Some documentations...
 The directory structure looks like this:<br><pre>
 AndroidManifest.xml<br>
@@ -34,5 +41,5 @@ Check out my theme called *Cyngn Blue Next* : https://play.google.com/store/apps
 Check out my theme called *Holo Cyngn Next* : https://play.google.com/store/apps/details?id=com.botty.theme.next
 
 Follow me on : 
-<b>Google +</b> : <a href="google.com/+IvanBotty">google.com/+IvanBotty</a>
+<b>Google +</b> : <a href="google.com/+IvanBotty">google.com/+IvanBotty</a><br>
 <b>Twitter</b> : <a href="twitter.com/bottyivan">twitter.com/bottyivan</a>
