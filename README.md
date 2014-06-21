@@ -40,6 +40,6 @@ Check out my theme called *Cyngn Blue Next* : https://play.google.com/store/apps
 
 Check out my theme called *Holo Cyngn Next* : https://play.google.com/store/apps/details?id=com.botty.theme.next
 
-Follow me on : 
+Follow me on : <br>
 <b>Google +</b> : <a href="google.com/+IvanBotty">google.com/+IvanBotty</a><br>
 <b>Twitter</b> : <a href="twitter.com/bottyivan">twitter.com/bottyivan</a>
