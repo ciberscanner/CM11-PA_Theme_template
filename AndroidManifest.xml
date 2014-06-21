@@ -1,0 +1,21 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.andymon.botty.theme">
+
+    <!-- for not showing on  the play store if you haven't this package -->
+    <uses-feature android:name="org.cyanogenmod.theme" />
+
+    <!-- for showing the Theme Name in the theme Chooser -->
+    <meta-data android:name="org.cyanogenmod.theme.name" android:value="My Test Theme"/>
+
+    <!-- for showing your name in the theme chooser -->
+    <meta-data android:name="org.cyanogenmod.theme.author" android:value="Botty Ivan" />
+
+    <application android:allowBackup="true"
+        android:label="@string/app_name"
+        android:icon="@drawable/ic_launcher"
+        android:theme="@style/AppTheme"
+        android:debuggable="false">
+
+    </application>
+
+</manifest>
