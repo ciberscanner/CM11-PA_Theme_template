@@ -36,9 +36,11 @@ Click <a href="http://review.cyanogenmod.org/#/c/62375/">here</a> to see the ful
 
 ### Good theming guys !!
 
-Check out my theme called *Cyngn Blue Next* : https://play.google.com/store/apps/details?id=com.botty.theme.next.blue
+Check out my theme called *Blu Sky* : https://play.google.com/store/apps/details?id=com.botty.theme.next.skyblue
 
-Check out my theme called *Holo Cyngn Next* : https://play.google.com/store/apps/details?id=com.botty.theme.next
+Check out my theme called *NEXT BLUE* : https://play.google.com/store/apps/details?id=com.botty.theme.next.blue
+
+Check out my theme called *Holo Gray Next* : https://play.google.com/store/apps/details?id=com.botty.theme.next
 
 Follow me on : <br>
 <b>Google +</b> : <a href="google.com/+IvanBotty">google.com/+IvanBotty</a><br>
