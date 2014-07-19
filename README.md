@@ -5,11 +5,11 @@ link:(http://goo.gl/kWq9ea) !!
 link : https://github.com/CyanogenMod/android_packages_themes_Template
 
 ###Some Screen : 
-<img src="https://raw.githubusercontent.com/AndyMon/CM11-PA_Theme_template/master/screen/lesson_3_wallpaper_pre.png">
-<img src="https://raw.githubusercontent.com/AndyMon/CM11-PA_Theme_template/master/screen/lesson_3_wall.png">
-<img src="https://raw.githubusercontent.com/AndyMon/CM11-PA_Theme_template/master/screen/lesson_3_lock.png">
-<img src="https://raw.githubusercontent.com/AndyMon/CM11-PA_Theme_template/master/screen/lesson_2_icon_settings_edited.png">
-
+<img style="width: 400px" src="https://raw.githubusercontent.com/AndyMon/CM11-PA_Theme_template/master/screen/lesson_3_wallpaper_pre.png">
+<img style="width: 400px" src="https://raw.githubusercontent.com/AndyMon/CM11-PA_Theme_template/master/screen/lesson_3_wall.png">
+<img style="width: 400px" src="https://raw.githubusercontent.com/AndyMon/CM11-PA_Theme_template/master/screen/lesson_3_lock.png">
+<img style="width: 400px" src="https://raw.githubusercontent.com/AndyMon/CM11-PA_Theme_template/master/screen/lesson_2_icon_settings_edited.png">
+<a>NOTE: actually the style in the screen are from other theme, becasue at this moment we haven't make a tutorial how to edit it</a>
 ### Some documentations...
 The directory structure looks like this:<br><pre>
 AndroidManifest.xml<br>
