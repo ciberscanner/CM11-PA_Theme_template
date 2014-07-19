@@ -4,6 +4,11 @@ link:(http://goo.gl/kWq9ea) !!
 ###Look at the official template:
 link : https://github.com/CyanogenMod/android_packages_themes_Template
 
+###Some Screen : 
+<img src="https://raw.githubusercontent.com/AndyMon/CM11-PA_Theme_template/master/screen/lesson_3_wallpaper_pre.png">
+<img src="https://raw.githubusercontent.com/AndyMon/CM11-PA_Theme_template/master/screen/lesson_3_wall.png">
+<img src="https://raw.githubusercontent.com/AndyMon/CM11-PA_Theme_template/master/screen/lesson_3_lock.png">
+<img src="https://raw.githubusercontent.com/AndyMon/CM11-PA_Theme_template/master/screen/lesson_2_icon_settings_edited.png">
 
 ### Some documentations...
 The directory structure looks like this:<br><pre>
