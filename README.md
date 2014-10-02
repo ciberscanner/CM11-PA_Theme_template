@@ -9,6 +9,9 @@ link : https://github.com/CyanogenMod/android_packages_themes_Template
 <img style="max-width:px ;" src="https://raw.githubusercontent.com/AndyMon/CM11-PA_Theme_template/master/screen/lesson_3_wall.png">
 <img style="max-width:px ;" src="https://raw.githubusercontent.com/AndyMon/CM11-PA_Theme_template/master/screen/lesson_3_lock.png">
 <img style="max-width:px ;" src="https://raw.githubusercontent.com/AndyMon/CM11-PA_Theme_template/master/screen/lesson_2_icon_settings_edited.png">
+<img style="max-width:px ;" src="https://raw.githubusercontent.com/AndyMon/CM11-PA_Theme_template/master/screen/lesson_4_botton.png">
+<img style="max-width:px ;" src="https://raw.githubusercontent.com/AndyMon/CM11-PA_Theme_template/master/screen/lesson_4_radio_holo_blue_dark.png">
+<img style="max-width:px ;" src="https://raw.githubusercontent.com/AndyMon/CM11-PA_Theme_template/master/screen/lesson_4_switch.png">
 <a>NOTE: actually the style in the screen are from other theme, becasue at this moment we haven't make a tutorial how to edit it</a>
 ### Some documentations...
 The directory structure looks like this:<br><pre>
